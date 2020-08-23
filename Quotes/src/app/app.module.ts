@@ -8,6 +8,7 @@ import { FormComponent } from './form/form.component';
 import { DetailsComponent } from './details/details.component';
 import { HighlightDirective } from './highlight.directive';
 
+
 @NgModule({
   declarations: [
     AppComponent,
