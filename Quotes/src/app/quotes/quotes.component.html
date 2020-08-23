@@ -3,12 +3,13 @@
     <img src="assets/images/like-dislike.png">
   </div>
 
-  
+  <app-form (emitQuote)="addQuote($event)"></app-form>
 
   <div class="container">
     <div class="row">
       <div class="col-md-10">
         <hr>
+
         <div  class="myQuote"*ngFor="let quote of quotes; let i=index">
           <p appHighlight *ngIf="highestUpvote()===quote.upvotes && quote.upvotes>0">{{quote.quote}}</p>
           <p  *ngIf="highestUpvote()!==quote.upvotes || quote.upvotes===0">{{quote.quote}}</p>
