@@ -8,6 +8,7 @@ import { FormComponent } from './form/form.component';
 import { DetailsComponent } from './details/details.component';
 import { HighlightDirective } from './highlight.directive';
 import { FormsModule} from '@angular/forms';
+import { DateCountPipe } from './date-count.pipe';
 
 @NgModule({
   declarations: [
@@ -16,6 +17,7 @@ import { FormsModule} from '@angular/forms';
     FormComponent,
     DetailsComponent,
     HighlightDirective,
+    DateCountPipe,
 
   ],
   imports: [
