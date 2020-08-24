@@ -2,7 +2,7 @@
 By Teddy Machoka
 
 ### Description
-This is a simple Angular 5 application that allows you to create quotes which allows one to add, upvote, downvote or delete a quote.
+This is a simple Angular application that allows you to create quotes which allows one to add, upvote, downvote or delete a quote.
 
 
 ### User Requirements
@@ -34,8 +34,8 @@ To get more help on the Angular CLI use ng help or go check out the Angular CLI 
 
 ### Installation
 Cloning
-'''Make sure you have all the Requirements or running angular apps installed such as node,npm, tsc and watchman'''
-'''Clone the project into your machine from https://github.com/Imma7/Quotes.git '''
+'''Make sure you have all the Requirements or running angular apps installed such as node,npm, tsc'''
+'''Clone the project into your machine from https://github.com/Teddie98/Quotes.git '''
 '''Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.'''
 
 ### Live Demo
