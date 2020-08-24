@@ -4,6 +4,7 @@ By Teddy Machoka
 ### Description
 This is a simple Angular 5 application that allows you to create quotes which allows one to add, upvote, downvote or delete a quote.
 
+
 ### User Requirements
 The applications allows users to do the following:
 
